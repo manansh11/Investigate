@@ -1,0 +1,12 @@
+{
+  "name": "Investigate",
+  "displayName": "Investigate",
+  "expo": {
+    "name": "Investigate",
+    "slug": "Investigate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
